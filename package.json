@@ -1,0 +1,33 @@
+{
+  "name": "eslint-config-resourge-react",
+  "version": "0.0.0-development",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "commit": "git add . && git-cz",
+    "semantic-release": "semantic-release"
+  },
+  "author": "José Silva Oliveira",
+  "license": "ISC",
+  "dependencies": {
+    "eslint-config-resourge-typescript": "*",
+    "eslint-plugin-react": "^7.33.2",
+    "eslint-plugin-react-hooks": "^4.6.0"
+  },
+  "devDependencies": {
+    "@semantic-release/changelog": "^6.0.3",
+    "@semantic-release/exec": "^6.0.3",
+    "@semantic-release/git": "^10.0.1",
+    "cz-conventional-changelog": "^3.3.0",
+    "semantic-release": "^22.0.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/resourge/eslint-config-resourge-react.git"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
+}
