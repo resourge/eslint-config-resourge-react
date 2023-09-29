@@ -4,13 +4,13 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "commit": "git add . && git-cz",
+    "commit": "git pull && git add . && git-cz",
     "semantic-release": "semantic-release"
   },
   "author": "José Silva Oliveira",
   "license": "ISC",
   "dependencies": {
-    "eslint-config-resourge-typescript": "*",
+    "eslint-config-resourge-typescript": ">1.0.1",
     "eslint-plugin-react": "^7.33.2",
     "eslint-plugin-react-hooks": "^4.6.0"
   },
