@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/resourge/eslint-config-resourge-react/compare/v1.0.1...v1.1.0) (2023-10-20)
+
+
+### Features
+
+* **eslint:** add more rules and some custom rules ([2240bc9](https://github.com/resourge/eslint-config-resourge-react/commit/2240bc978f8ef4906de8a8916715c55edfa56ad5))
+
 ## [1.0.1](https://github.com/resourge/eslint-config-resourge-react/compare/v1.0.0...v1.0.1) (2023-09-29)
 
 
