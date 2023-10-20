@@ -10,9 +10,10 @@
   "author": "José Silva Oliveira",
   "license": "ISC",
   "dependencies": {
-    "eslint-config-resourge-typescript": ">=1.0.1",
+    "eslint-config-resourge-typescript": "^1.1.0",
     "eslint-plugin-react": "^7.33.2",
-    "eslint-plugin-react-hooks": "^4.6.0"
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "eslint-plugin-resourge-custom-react": "file:lib/eslint-plugin-resourge-custom-react"
   },
   "devDependencies": {
     "@semantic-release/changelog": "^6.0.3",
