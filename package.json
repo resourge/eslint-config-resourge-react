@@ -1,7 +1,7 @@
 {
   "name": "eslint-config-resourge-react",
   "version": "1.1.1",
-  "description": "",
+  "description": "Resourge eslint",
   "main": "index.js",
   "scripts": {
     "commit": "git pull && git add . && git-cz",
