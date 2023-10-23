@@ -1,3 +1,11 @@
+## [1.1.1](https://github.com/resourge/eslint-config-resourge-react/compare/v1.1.0...v1.1.1) (2023-10-23)
+
+
+### Bug Fixes
+
+* **custom plugin:** fix custom plugin errors ([978e064](https://github.com/resourge/eslint-config-resourge-react/commit/978e06470a1ecf190d694f102725c19e0e0ac2b2))
+* **eslint:** fix custom rule name ([a2950c8](https://github.com/resourge/eslint-config-resourge-react/commit/a2950c8c3b2e72356606b3cc29a12523c6e52f78))
+
 # [1.1.0](https://github.com/resourge/eslint-config-resourge-react/compare/v1.0.1...v1.1.0) (2023-10-20)
 
 
