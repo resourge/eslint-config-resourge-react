@@ -74,7 +74,6 @@ module.exports = {
 				"when": "always"
 			}
 		}],
-		"resource-react/jsx-no-leaked-render": [2, { "validStrategies": ["ternary"] }],
 		'react/jsx-closing-bracket-location': [2, 'line-aligned'],
 		"react/self-closing-comp": ["error", {
 			"component": true,
@@ -82,12 +81,14 @@ module.exports = {
 		}],
 		"react-hooks/exhaustive-deps": 'off',
 		'operator-linebreak': ['error', 'before', { "overrides": { "?": "before" } }],
-		'resource-react/jsx-first-prop-new-line': ['error', "multiprop"],
 		'react/jsx-max-props-per-line': ['error', {
 			maximum: 1,
 			when: 'multiline'
 		}],
-		'resource-react/jsx-curly-newline': [2, { multiline: "require", singleline: "consistent" }],
+
+		"resourge-custom-react/jsx-no-leaked-render": [2, { "validStrategies": ["ternary"] }],
+		'resourge-custom-react/jsx-first-prop-new-line': ['error', "multiprop"],
+		'resourge-custom-react/jsx-curly-newline': [2, { multiline: "require", singleline: "consistent" }],
 	},
 	settings: {
 		react: {
