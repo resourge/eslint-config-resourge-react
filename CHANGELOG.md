@@ -1,3 +1,11 @@
+## [1.1.3](https://github.com/resourge/eslint-config-resourge-react/compare/v1.1.2...v1.1.3) (2023-10-24)
+
+
+### Bug Fixes
+
+* **package-lock:** fix package-lock ([4ea70b2](https://github.com/resourge/eslint-config-resourge-react/commit/4ea70b21e6f5ba0f1a3ad3f25b1af0ecb4ec6e55))
+* **package:** fix yarn relative path for eslint-plugin-resourge-custom-react ([0f690eb](https://github.com/resourge/eslint-config-resourge-react/commit/0f690eb4102f69e8043458a482c4a0f2c009fded))
+
 ## [1.1.2](https://github.com/resourge/eslint-config-resourge-react/compare/v1.1.1...v1.1.2) (2023-10-23)
 
 
