@@ -1,3 +1,11 @@
+# [1.2.0](https://github.com/resourge/eslint-config-resourge-react/compare/v1.1.3...v1.2.0) (2023-10-25)
+
+
+### Features
+
+* **index:** include new rule by default ([6ef11b4](https://github.com/resourge/eslint-config-resourge-react/commit/6ef11b41fe1bbe78573691f6b96d13017778ae61))
+* **rules:** add export-default-react-components custom rule ([c039864](https://github.com/resourge/eslint-config-resourge-react/commit/c0398644d0054330a7fe0aeb46d6b5963014bede))
+
 ## [1.1.3](https://github.com/resourge/eslint-config-resourge-react/compare/v1.1.2...v1.1.3) (2023-10-24)
 
 
