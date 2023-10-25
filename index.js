@@ -1,24 +1,5 @@
 const isProduction = process.env.NODE_ENV === 'production';
 
-/*
-if (
-					(
-						node.expression.alternate &&
-						node.expression.alternate.type === 'JSXElement'
-					)
-					|| (
-						node.expression.consequent &&
-						node.expression.consequent.type === 'JSXElement'
-					)
-				) {
-					const curlyTokens = {
-						leftCurly: sourceCode.getFirstToken(node),
-						rightCurly: sourceCode.getLastToken(node),
-					};
-					validateCurlys(curlyTokens, node.expression);
-				}
-*/
-
 module.exports = {
 	env: {
 		browser: true,

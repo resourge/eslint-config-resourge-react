@@ -13,7 +13,7 @@
     "eslint-config-resourge-typescript": "^1.2.0",
     "eslint-plugin-react": "^7.33.2",
     "eslint-plugin-react-hooks": "^4.6.0",
-    "eslint-plugin-resourge-custom-react": "file:./lib/eslint-plugin-resourge-custom-react"
+    "eslint-plugin-resourge-custom-react": "file:lib/eslint-plugin-resourge-custom-react"
   },
   "devDependencies": {
     "@semantic-release/changelog": "^6.0.3",
