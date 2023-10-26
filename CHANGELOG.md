@@ -1,3 +1,10 @@
+## [1.2.4](https://github.com/resourge/eslint-config-resourge-react/compare/v1.2.3...v1.2.4) (2023-10-26)
+
+
+### Bug Fixes
+
+* **package:** possible fix ([e7c31a4](https://github.com/resourge/eslint-config-resourge-react/commit/e7c31a4a9559bea63a235758b161a29c8f026be6))
+
 ## [1.2.3](https://github.com/resourge/eslint-config-resourge-react/compare/v1.2.2...v1.2.3) (2023-10-26)
 
 
