@@ -1,3 +1,10 @@
+## [1.2.3](https://github.com/resourge/eslint-config-resourge-react/compare/v1.2.2...v1.2.3) (2023-10-26)
+
+
+### Bug Fixes
+
+* **package:** possible fix for custom eslint rules ([20e7f55](https://github.com/resourge/eslint-config-resourge-react/commit/20e7f558a8d36038f49deb888b8223e10375615c))
+
 ## [1.2.2](https://github.com/resourge/eslint-config-resourge-react/compare/v1.2.1...v1.2.2) (2023-10-26)
 
 
