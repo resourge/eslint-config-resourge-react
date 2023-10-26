@@ -1,3 +1,10 @@
+## [1.2.2](https://github.com/resourge/eslint-config-resourge-react/compare/v1.2.1...v1.2.2) (2023-10-26)
+
+
+### Bug Fixes
+
+* **package:** possible fix for npm install ([cccf31e](https://github.com/resourge/eslint-config-resourge-react/commit/cccf31e9e026544ad587e1bda2ee06dbd61dfa4b))
+
 ## [1.2.1](https://github.com/resourge/eslint-config-resourge-react/compare/v1.2.0...v1.2.1) (2023-10-25)
 
 
