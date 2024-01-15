@@ -70,7 +70,9 @@ module.exports = {
 		"resourge-custom-react/jsx-no-leaked-render": [2, { "validStrategies": ["ternary"] }],
 		'resourge-custom-react/jsx-first-prop-new-line': ['error', "multiprop"],
 		'resourge-custom-react/jsx-curly-newline': [2, { multiline: "require", singleline: "consistent" }],
-		'resourge-custom-react/export-default-react-components': 'error'
+		'resourge-custom-react/export-default-react-components': 'error',
+		'resourge-custom-react/no-index': 2,
+		'resourge-custom-react/folder-file-convention': 2
 	},
 	settings: {
 		react: {
