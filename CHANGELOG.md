@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/resourge/eslint-config-resourge-react/compare/v1.3.0...v1.4.0) (2024-01-15)
+
+
+### Features
+
+* **custom-react:** add 2 more rules no-index and folder-file-convention ([8eaef3a](https://github.com/resourge/eslint-config-resourge-react/commit/8eaef3aa0535abb5b24758c5992cb1bf2aa8c866))
+
 # [1.3.0](https://github.com/resourge/eslint-config-resourge-react/compare/v1.2.4...v1.3.0) (2023-10-26)
 
 
