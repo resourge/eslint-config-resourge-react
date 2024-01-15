@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-resourge-react",
-  "version": "1.5.3",
+  "version": "1.5.4",
   "description": "Resourge eslint",
   "main": "index.js",
   "scripts": {

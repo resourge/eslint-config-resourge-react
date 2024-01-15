@@ -1,3 +1,10 @@
+## [1.5.4](https://github.com/resourge/eslint-config-resourge-react/compare/v1.5.3...v1.5.4) (2024-01-15)
+
+
+### Bug Fixes
+
+* **custom rules:** change from Program:exit to Program ([9eafc17](https://github.com/resourge/eslint-config-resourge-react/commit/9eafc17f725fa6fa71b54a5c6ff1f6735ab66a7f))
+
 ## [1.5.3](https://github.com/resourge/eslint-config-resourge-react/compare/v1.5.2...v1.5.3) (2024-01-15)
 
 
