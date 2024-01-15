@@ -1,3 +1,10 @@
+## [1.5.2](https://github.com/resourge/eslint-config-resourge-react/compare/v1.5.1...v1.5.2) (2024-01-15)
+
+
+### Bug Fixes
+
+* **folder-file-convertion:** ignore file names that start with use ([602a9c4](https://github.com/resourge/eslint-config-resourge-react/commit/602a9c436221414b2d2b74dbf37d6ca230ad92ab))
+
 ## [1.5.1](https://github.com/resourge/eslint-config-resourge-react/compare/v1.5.0...v1.5.1) (2024-01-15)
 
 
