@@ -1,3 +1,10 @@
+## [1.5.3](https://github.com/resourge/eslint-config-resourge-react/compare/v1.5.2...v1.5.3) (2024-01-15)
+
+
+### Bug Fixes
+
+* **folder-file-convention:** add Page to the ignore cases ([18ae6c7](https://github.com/resourge/eslint-config-resourge-react/commit/18ae6c71b53f8391b7ac51af83be808336e0b310))
+
 ## [1.5.2](https://github.com/resourge/eslint-config-resourge-react/compare/v1.5.1...v1.5.2) (2024-01-15)
 
 
