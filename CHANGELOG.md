@@ -1,3 +1,10 @@
+# [1.5.0](https://github.com/resourge/eslint-config-resourge-react/compare/v1.4.0...v1.5.0) (2024-01-15)
+
+
+### Features
+
+* **eslint-config-resourge-typescript:** update eslint-config-resourge-typescript ([55deb77](https://github.com/resourge/eslint-config-resourge-react/commit/55deb770bf82c000b31e47b00ba8a076e65b244b))
+
 # [1.4.0](https://github.com/resourge/eslint-config-resourge-react/compare/v1.3.0...v1.4.0) (2024-01-15)
 
 
