@@ -1,3 +1,10 @@
+## [1.5.1](https://github.com/resourge/eslint-config-resourge-react/compare/v1.5.0...v1.5.1) (2024-01-15)
+
+
+### Bug Fixes
+
+* **folder-file-convention:** fix filename rules not working as intended ([b72271c](https://github.com/resourge/eslint-config-resourge-react/commit/b72271c3010186184d854296725ee6f6baf1c100))
+
 # [1.5.0](https://github.com/resourge/eslint-config-resourge-react/compare/v1.4.0...v1.5.0) (2024-01-15)
 
 
